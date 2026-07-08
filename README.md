@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachana Medehal</h1>
 
 <h3 align="center">
-Backend Developer • AI Engineer • UX Designer • Aspiring Systems Analyst
+Backend Developer • AI Enthusiast • UX Designer • Aspiring Systems Analyst
 </h3>
 
 <p align="center">
