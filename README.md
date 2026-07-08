@@ -1,16 +1,124 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rachana Medehal</h1>
 
-<!--
-**MRachana1999/MRachana1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Backend Developer • AI Engineer • UX Designer • Aspiring Systems Analyst
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building intelligent software that combines scalable engineering, thoughtful user experiences, and data-driven decision making.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩🏻‍💻 About Me
+
+- 🎓 Master of Information Technology @ Flinders University
+- 💼 IT Support Officer @ Flinders University
+- 💻 Former Backend Developer @ Harman International
+- 🎨 Former UX Designer with experience designing data-driven digital products
+- 🤖 Passionate about AI, Agentic Workflows & Backend Engineering
+- 📊 Interested in Systems Analysis, Business Analysis and designing technology that solves real user problems
+- ☁️ Exploring Cloud Computing, Distributed Systems and DevOps
+- 🌱 Currently learning Kubernetes, MCP, LangGraph and advanced AWS
+- 📍 Adelaide, Australia
+
+---
+
+## 🚀 What I Enjoy Building
+
+🧠 AI Applications & Agentic Systems
+
+⚙️ Backend APIs & Scalable Software
+
+☁️ Cloud-Native Applications
+
+📈 Data Analytics & Dashboards
+
+🎨 User-Centred Product Design
+
+🔍 Systems Analysis & Process Improvement
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Slack AI Member Analysis Bot
+LLM-powered Slack assistant that researches new members and scores product fit using Gemini, LangChain and PostgreSQL.
+
+**Tech**
+Node.js • LangChain • Gemini API • PostgreSQL • Railway • Render
+
+---
+
+### 📄 Resume AI Reviewer
+AI-powered resume reviewer using Retrieval Augmented Generation (RAG).
+
+**Tech**
+TypeScript • LangChain • Ollama • Supabase • PDF.js
+
+---
+
+### ☁️ Cloud Weather Data Pipeline
+Serverless AWS data engineering project processing live weather data across multiple storage systems.
+
+**Tech**
+AWS Lambda • DynamoDB • S3 • MariaDB • SNS • Python
+
+---
+
+### 📊 Consumer Behaviour Analytics
+End-to-end analytics project involving data cleaning, SQL analysis and interactive Power BI dashboards.
+
+**Tech**
+Python • PostgreSQL • Power BI • Pandas
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+Java • Python • TypeScript • JavaScript • SQL • C#
+
+### Backend
+Spring Boot • Node.js • REST APIs • LangChain • MCP • RAG
+
+### Cloud & DevOps
+AWS • Docker • Kubernetes • Jenkins • Railway • Render
+
+### Databases
+PostgreSQL • MySQL • MongoDB • DynamoDB • Firebase • Supabase
+
+### AI
+OpenAI • Claude • Gemini • Ollama • Prompt Engineering • Agentic AI
+
+### Design & Analytics
+Figma • Power BI • PostgreSQL • Pandas • Mixpanel • Google Analytics
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MRachana1999&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRachana1999&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+## 🌍 Let's Connect
+
+📧 **Email:** medehalrachana@gmail.com
+
+💼 **LinkedIn:** linkedin.com/in/medehalrachana
+
+🌐 **Portfolio:** medehal-rachana-portfolio.lovable.app
+
+💻 **GitHub:** github.com/MRachana1999
+
+🧩 **LeetCode:** leetcode.com/u/rachanamedehal
+
+---
+
+<p align="center">
+<i>"I enjoy building software that's technically robust, intuitive to use, and capable of solving real-world problems."</i>
+</p>
