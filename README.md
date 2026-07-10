@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a9dbd17a-cee8-44bf-bc68-546140a284e4" alt="GitHub Header" height="350">
+</p>
+
 <h1 align="center">Hi 👋, I'm Rachana Medehal</h1>
 
 <h3 align="center">
