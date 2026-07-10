@@ -100,15 +100,6 @@ Figma • Power BI • PostgreSQL • Pandas • Mixpanel • Google Analytics
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MRachana1999&show_icons=true&theme=github_dark"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRachana1999&layout=compact&theme=github_dark"/>
-</p>
-
----
-
 ## 🌍 Let's Connect
 
 📧 **Email:** medehalrachana@gmail.com
