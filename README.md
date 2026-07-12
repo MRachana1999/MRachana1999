@@ -74,7 +74,7 @@ AWS Lambda • DynamoDB • S3 • MariaDB • SNS • Python
 End-to-end analytics project involving data cleaning, SQL analysis and interactive Power BI dashboards.
 
 **Tech**
-Python • PostgreSQL • Power BI • Pandas
+Python • PostgreSQL • Power BI • Pandas • Tableau
 
 ---
 
